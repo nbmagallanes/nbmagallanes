@@ -8,10 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://nbmagallanes.github.io/](https://nbmagallanes.github.io/)
 
 - 📫 How to reach me **nbmagallanesflores@gmail.com**
-
-- 📄 Know about my experiences [https://nbmagallanes.github.io/assets/nicole_magallanes_resume.pdf](https://nbmagallanes.github.io/assets/nicole_magallanes_resume.pdf)
-
-<h3 align="left">Connect with me:</h3>
+  
 <p align="left">
 </p>
 
