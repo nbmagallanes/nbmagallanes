@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [taskinIt](https://github.com/nbmagallanes/TaskingIt)
 
-- 🌱 I’m currently learning **AWS and Docker**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://nbmagallanes.github.io/](https://nbmagallanes.github.io/)
 
